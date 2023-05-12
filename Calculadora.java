@@ -59,4 +59,6 @@ public class Calculadora {
 		int division2 = num2 / num1;
 		return division2;
 	}
+	
+	//se podria realizar otro metodo multiplicacion2
 }
