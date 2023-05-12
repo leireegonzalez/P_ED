@@ -45,4 +45,18 @@ public class Calculadora {
 
 	}
 
+	public int suma2() {
+		int suma2 = num2 + num1;
+		return suma2;
+	}
+
+	public int resta2() {
+		int resta2 = num2 - num1;
+		return resta2;
+	}
+
+	public int division2() {
+		int division2 = num2 / num1;
+		return division2;
+	}
 }
